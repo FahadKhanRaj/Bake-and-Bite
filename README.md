@@ -1,4 +1,4 @@
-# Online Bakery Shop
+# BAKE & EAT: An Online Bakery Shop
 
 ## Project Description
 
@@ -23,3 +23,11 @@ The Online Bakery Shop is a full-featured e-commerce application designed to man
 - **Order Management**: Users can place orders, view order history, and admins can manage and update order statuses.
 
 This project leverages the power of the MERN stack to provide a robust and scalable solution for managing an online bakery shop, ensuring efficient performance and a user-friendly interface.
+
+![main image 1](https://github.com/FahadKhanRaj/Bake-and-Eat/assets/91188743/aa275006-cf16-4ffd-bc3e-37fe59454cc9)
+![main image 2](https://github.com/FahadKhanRaj/Bake-and-Eat/assets/91188743/4f0efb22-8483-4ec9-82d4-2d83ae416264)
+
+![5](https://github.com/FahadKhanRaj/Bake-and-Eat/assets/91188743/75cfd259-113d-4cf1-bd18-de6df37217a5)
+![6](https://github.com/FahadKhanRaj/Bake-and-Eat/assets/91188743/6807ff06-6846-4672-9ae1-55d1c5b21fc8)
+![3](https://github.com/FahadKhanRaj/Bake-and-Eat/assets/91188743/3a29da90-6a4c-4117-8e10-4be6ddbdbf7e)
+
