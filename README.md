@@ -1,4 +1,4 @@
-# BAKE & EAT: An Online Bakery Shop
+# BAKE & BITE: An Online Bakery Shop
 
 ## Project Description
 
